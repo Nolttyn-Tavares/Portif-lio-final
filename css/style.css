@@ -53,6 +53,7 @@ header {
   box-shadow: var(--sombra);
   padding: 10px 0px;
 }
+table { border-collapse: collapse; }
 main{margin:10px 0px;
 padding: 10px;
 background-color: var(--cor-fundo);}
